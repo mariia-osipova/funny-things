@@ -1,4 +1,4 @@
-n = int(input('please put integer: '))
+n = int(input())
 list = [n]
 
 while n != 1:
